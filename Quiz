@@ -30,7 +30,7 @@ int main() {
 	int color_menu;									//Выбор меню цветов
 	int num_quest;									//Выбор количества вопросов
 	int col_select;									//Выбор цвета
-	int number_of_questions = 10;					//Количество вопросов
+	int number_of_questions = 10;						//Количество вопросов
 	int lives = 3;									//Количество жизней
 	int score = 0;									//Счёт
 	
